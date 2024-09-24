@@ -36,13 +36,21 @@ public class Datatypes {
         byte by = 127;
         short sh = 558;
         long l = 65542311l;
+        System.out.println(num1);
+        System.out.println(by);
+        System.out.println(sh);
+        System.out.println(l);
 
         float f = 3.6f;
         double d = 4.7;
+        System.out.println(f);
+        System.out.println(d);
 
         char ch = 'f';
+        System.out.println(ch);
 
         boolean b = true;
+        System.out.println(b);
 
     }
 
