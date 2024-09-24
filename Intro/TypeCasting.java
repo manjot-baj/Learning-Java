@@ -4,7 +4,7 @@ Implicit conversion is called Conversion
 Explicit conversion is called Casting
  */
 
-public class type_casting {
+public class TypeCasting {
     public static void main(String[] args) {
         byte b = 2;
         int a = 10000;

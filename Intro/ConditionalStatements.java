@@ -1,4 +1,4 @@
-public class conditional_statements {
+public class ConditionalStatements {
     public static void main(String a[]) {
         // if else
         int x = 12;
