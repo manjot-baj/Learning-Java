@@ -30,9 +30,8 @@ Datatypes
 
  */
 
-
 public class Datatypes {
-    public static void main(String a[]){
+    public static void main(String a[]) {
         int num1 = 2;
         byte by = 127;
         short sh = 558;
@@ -46,5 +45,5 @@ public class Datatypes {
         boolean b = true;
 
     }
-    
+
 }

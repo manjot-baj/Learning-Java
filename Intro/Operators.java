@@ -1,6 +1,6 @@
 public class Operators {
     public static void main(String[] args) {
-        
+
         // Assignment and Arithmatic operators
         // int num1 = 9;
         // int num2 = 3;
@@ -45,7 +45,6 @@ public class Operators {
         // System.out.println(result);
         // System.out.println(!result);
 
-
     }
-    
+
 }
