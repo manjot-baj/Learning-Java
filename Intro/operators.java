@@ -4,7 +4,6 @@ public class operators {
         // Assignment and Arithmatic operators
         // int num1 = 9;
         // int num2 = 3;
-
         // int result = num1 + num2; // Addition
         // int result = num1 - num2; // substraction
         // int result = num1 * num2; // Multiplication
@@ -37,12 +36,10 @@ public class operators {
 
         // logical operator
         // || , &&, !
-
         // int x = 7;
         // int y = 5;
         // int a = 5;
         // int b = 9;
-
         // boolean result = x > y || a > b;
         // boolean result = x > y && a > b;
         // System.out.println(result);
