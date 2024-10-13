@@ -19,7 +19,7 @@ class Calculator {
 }
 
 public class DemoMethodOverloading {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
         Calculator calc = new Calculator();
         System.out.println(calc.add(2.1, 2.4));
     }

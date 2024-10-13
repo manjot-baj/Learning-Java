@@ -39,7 +39,7 @@ class Calculator {
 
 public class DemoStackAndHeap {
 
-    public static void main(String[] args) {
+    public static void main(String a[]) {
         // each method have its own stack that contains variable with key value pair.
         Calculator obj1 = new Calculator(); // creates object1 in heap memory, and assign the memory address to as value
                                             // to stack key obj1.

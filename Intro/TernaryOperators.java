@@ -1,5 +1,5 @@
 public class TernaryOperators {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         // int num = 53;
         int num = 200;

@@ -1,5 +1,5 @@
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         // Assignment and Arithmatic operators
         // int num1 = 9;

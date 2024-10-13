@@ -7,7 +7,7 @@ class Calculator{
 }
 
 public class DemoClassObject {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
         int x = 3000;
         int y = 51234;
         Calculator calc = new Calculator();
