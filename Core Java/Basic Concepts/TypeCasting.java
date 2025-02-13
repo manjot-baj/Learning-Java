@@ -7,10 +7,10 @@ Explicit conversion is called Casting
 public class TypeCasting {
     public static void main(String a[]) {
         byte b = 2;
-        int a = 10000;
+        int n = 10000;
         // a = b; /* type conversion */
         // b = (byte) a; /* type casting */
-        System.out.println(a);
+        System.out.println(n);
         System.out.println(b);
     }
 }
